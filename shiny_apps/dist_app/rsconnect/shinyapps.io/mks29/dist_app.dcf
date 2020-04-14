@@ -1,0 +1,10 @@
+name: dist_app
+title:
+username:
+account: mks29
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 927577
+bundleId: 2081730
+url: https://mks29.shinyapps.io/dist_app/
+when: 1557787055.43992

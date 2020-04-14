@@ -1,0 +1,7 @@
+Title: Finite State Differences Model of Flow
+Author: Matthew Skiffington
+AuthorUrl: https://www.waikato.ac.nz/study/subjects/data-analytics
+License: GPL-3
+DisplayMode: Showcase
+Tags: modeling, convergence, finite-state-differences,approximation
+Type: Shiny

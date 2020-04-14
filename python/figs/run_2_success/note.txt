@@ -1,0 +1,5 @@
+no momentum
+SGD
+10 Epochs
+batch size = 64
+alternating loss per batch

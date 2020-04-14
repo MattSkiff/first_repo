@@ -1,0 +1,50 @@
+---
+title: "COVID19 NZ Timeline"
+output: html_document
+---
+<style type="text/css">
+.main-container {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+You can use the mouse to scroll in both the horizontal and vertical directions. Click on a label to bring it to the front. Use the +/- buttons to zoom in and out.
+
+```{r cars,warning=F,message=F,echo = F}
+# timeline scripts for ben
+
+library(lubridate)
+library(timevis)
+library(dplyr)
+library(magrittr)
+
+timeline.df <- read.csv("timeline_data_ben.csv")
+timeline.df$date <- as.character(timeline.df$date)
+
+
+timeline.df$date <- dmy(timeline.df$date)
+timeline.df <- select(timeline.df,stage_description,date,everything())
+
+data <- data.frame(
+  id      = 1:nrow(timeline.df),
+  content = timeline.df$description,
+  start   = timeline.df$date,
+  end     = rep(NA,nrow(timeline.df)),
+  group =  timeline.df$category
+)
+
+timevisDataGroups  <- data.frame(id = unique(timeline.df$category),
+                                 content = gsub(x = unique(timeline.df$category),pattern = "_",replacement = " "))
+
+timevis_covid <- timevis(data, groups = timevisDataGroups,fit = F,width = "100%",height = "800px") %>%
+  setWindow(min(timeline.df$date),min(timeline.df$date) + 30)
+
+timevis_covid
+```
+
+

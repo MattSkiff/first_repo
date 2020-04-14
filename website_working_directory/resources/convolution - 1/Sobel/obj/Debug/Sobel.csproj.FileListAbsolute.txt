@@ -1,0 +1,6 @@
+C:\Users\mpound\Desktop\Computerphile Resources\KernelConvolution\Sobel\bin\Debug\Sobel.exe.config
+C:\Users\mpound\Desktop\Computerphile Resources\KernelConvolution\Sobel\bin\Debug\Sobel.exe
+C:\Users\mpound\Desktop\Computerphile Resources\KernelConvolution\Sobel\bin\Debug\Sobel.pdb
+C:\Users\mpound\Desktop\Computerphile Resources\KernelConvolution\Sobel\obj\Debug\Sobel.exe
+C:\Users\mpound\Desktop\Computerphile Resources\KernelConvolution\Sobel\obj\Debug\Sobel.pdb
+C:\Users\mpound\Desktop\Computerphile Resources\KernelConvolution\Sobel\obj\Debug\Sobel.csprojResolveAssemblyReference.cache

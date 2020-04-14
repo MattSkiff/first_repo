@@ -1,0 +1,16 @@
+Monte Carlo Open Day Demo App 
+by Matthew Skiffington
+
+This small Shiny application demonstrates a basic example of Monte Carlo Simulation. Click "start / continue" to begin a loop. Random data sets of increasing size will be generated, and an estimate of pi will be calculated from these, iteratively (as shown in the convergence plot). A sense of what is happening is shown in the scatterplot on the left.
+
+If you would like to estimate pi using more data points, please pause the loop, select the amount you like to generate using the slider, then click "generate". For more than 5k points, the scatterplot is not rendered (it can take minutes, which is not ideal for a demonstration app). The simulation may take a while as it is written using a loop (not vectorised) and even plotting a line chart can take a while. The logic for this simulation comes courtesy from:
+
+> https://www.r-bloggers.com/estimation-of-the-number-pi-a-monte-carlo-simulation/
+
+A copy of this original code can be accessed above.
+
+Each point is drawn from a -1,1 uniform random distribution, for X and Y. The distance calculated is the euclidean (L2) distance, and the circle unit is the unit circle (the method would work identically with a quadrant - the ratios play out the same). In reality, estimating Pi this way is tremendously slow and inefficient - other, more sophisticated methods are used in practice. However, it nicely illustrates how a method involving random draws from a distribution can solve problems that might be difficult to solve using deterministic methods. The most notable use case is probably in Markov chain Monte Carlo (MCMC).
+
+It turns out writing plots straight to file (to raster, without trying to display a vectorised object) is a lot faster. Additionally, R and ggplot2's default plotting shape for points is aliased, meaning for thousands (or millions) of points, switching to single pixel (pch='.') or small non-aliased circles (pch=16) significantly improves performance. For more high performance (hundreds of millions), datashader in python seems to be good. I've seen a post describing 2.6 billion points plotted in under 10s in Julia, using special techniques (memory mapping, saving data as a binary blob, multithreading, etc).
+
+>https://hackernoon.com/drawing-2-7-billion-points-in-10s-ecc8c85ca8fa

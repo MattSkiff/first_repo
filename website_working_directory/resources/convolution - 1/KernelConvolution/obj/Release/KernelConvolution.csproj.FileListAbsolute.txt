@@ -1,0 +1,5 @@
+C:\Users\mpound\Desktop\KernelConvolution\KernelConvolution\bin\Release\KernelConvolution.exe.config
+C:\Users\mpound\Desktop\KernelConvolution\KernelConvolution\bin\Release\KernelConvolution.exe
+C:\Users\mpound\Desktop\KernelConvolution\KernelConvolution\bin\Release\KernelConvolution.pdb
+C:\Users\mpound\Desktop\KernelConvolution\KernelConvolution\obj\Release\KernelConvolution.exe
+C:\Users\mpound\Desktop\KernelConvolution\KernelConvolution\obj\Release\KernelConvolution.pdb

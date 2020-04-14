@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaussianBlur", "GaussianBlur\GaussianBlur.csproj", "{781CCFDE-654A-406B-8C8F-B19471FF2F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KernelConvolution", "KernelConvolution\KernelConvolution.csproj", "{AAE1AB0E-88CB-4318-987A-DEFB8867AA10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobel", "Sobel\Sobel.csproj", "{8535CD00-61D6-4965-A7DC-4B6BEF27D5D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{781CCFDE-654A-406B-8C8F-B19471FF2F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781CCFDE-654A-406B-8C8F-B19471FF2F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781CCFDE-654A-406B-8C8F-B19471FF2F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781CCFDE-654A-406B-8C8F-B19471FF2F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE1AB0E-88CB-4318-987A-DEFB8867AA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE1AB0E-88CB-4318-987A-DEFB8867AA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE1AB0E-88CB-4318-987A-DEFB8867AA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE1AB0E-88CB-4318-987A-DEFB8867AA10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8535CD00-61D6-4965-A7DC-4B6BEF27D5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8535CD00-61D6-4965-A7DC-4B6BEF27D5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8535CD00-61D6-4965-A7DC-4B6BEF27D5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8535CD00-61D6-4965-A7DC-4B6BEF27D5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

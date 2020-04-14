@@ -1,0 +1,5 @@
+LR = 0.01
+Batch = 64
+Learning Rate = 0.01
+Momentum = 0
+Normalisation = 0.5,0.5,0.5

@@ -1,0 +1,27 @@
+Country,variable,value,dead,recovered,community,currently_infected
+New Zealand,2/28/20,1,0,0,0,1
+New Zealand,2/29/20,1,0,0,0,1
+New Zealand,3/01/2020,1,0,0,0,1
+New Zealand,3/02/2020,1,0,0,0,1
+New Zealand,3/03/2020,1,0,0,0,1
+New Zealand,3/04/2020,3,0,0,0,3
+New Zealand,3/05/2020,3,0,0,0,3
+New Zealand,3/06/2020,4,0,0,0,4
+New Zealand,3/07/2020,5,0,0,0,5
+New Zealand,3/08/2020,5,0,0,0,5
+New Zealand,3/09/2020,5,0,0,0,5
+New Zealand,3/10/2020,5,0,0,0,5
+New Zealand,3/11/2020,5,0,0,0,5
+New Zealand,3/12/2020,5,0,0,0,5
+New Zealand,3/13/20,5,0,0,0,5
+New Zealand,3/14/20,6,0,0,0,6
+New Zealand,3/15/20,8,0,0,0,8
+New Zealand,3/16/20,8,0,0,0,8
+New Zealand,3/17/20,12,0,0,0,12
+New Zealand,3/18/20,20,0,0,0,20
+New Zealand,3/19/20,28,0,0,0,28
+New Zealand,3/20/20,39,0,0,0,39
+New Zealand,3/21/20,52,0,0,0,52
+New Zealand,3/22/20,66,0,0,0,66
+New Zealand,3/23/20,102,0,0,0,102
+New Zealand,3/24/20,155,0,13,4,142

@@ -1,0 +1,6 @@
+C:\Users\mpound\Desktop\KernelConvolution\KernelConvolution\bin\Debug\KernelConvolution.exe.config
+C:\Users\mpound\Desktop\KernelConvolution\KernelConvolution\obj\Debug\KernelConvolution.csprojResolveAssemblyReference.cache
+C:\Users\mpound\Desktop\KernelConvolution\KernelConvolution\bin\Debug\KernelConvolution.exe
+C:\Users\mpound\Desktop\KernelConvolution\KernelConvolution\bin\Debug\KernelConvolution.pdb
+C:\Users\mpound\Desktop\KernelConvolution\KernelConvolution\obj\Debug\KernelConvolution.exe
+C:\Users\mpound\Desktop\KernelConvolution\KernelConvolution\obj\Debug\KernelConvolution.pdb

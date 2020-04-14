@@ -1,0 +1,6 @@
+library(magick)
+#library(devtools)
+#install_github("ThinkR-open/collage")
+library(collage)
+mbie <- image_read("C:/Users/user/Desktop/unnamed.jpg")
+collage(mbie, tiles = kittens, size = 10)

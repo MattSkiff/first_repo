@@ -1,0 +1,8 @@
+no momentum
+SGD
+no dropout
+10 Epochs
+train accuracy code broken
+batch size = 64
+learning_rate = 0.01 (no schedule)
+alternating loss per batch

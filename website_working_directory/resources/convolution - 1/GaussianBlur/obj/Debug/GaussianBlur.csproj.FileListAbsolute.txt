@@ -1,0 +1,6 @@
+C:\Users\mpound\Desktop\KernelConvolution\GaussianBlur\bin\Debug\KernelConvolution.exe.config
+C:\Users\mpound\Desktop\KernelConvolution\GaussianBlur\bin\Debug\KernelConvolution.exe
+C:\Users\mpound\Desktop\KernelConvolution\GaussianBlur\bin\Debug\KernelConvolution.pdb
+C:\Users\mpound\Desktop\KernelConvolution\GaussianBlur\obj\Debug\GaussianBlur.csprojResolveAssemblyReference.cache
+C:\Users\mpound\Desktop\KernelConvolution\GaussianBlur\obj\Debug\KernelConvolution.exe
+C:\Users\mpound\Desktop\KernelConvolution\GaussianBlur\obj\Debug\KernelConvolution.pdb

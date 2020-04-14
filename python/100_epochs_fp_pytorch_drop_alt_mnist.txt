@@ -1,0 +1,497 @@
+CE  Train Epoch: 96 [44800/60000 (75%)]    Loss: 0.682370
+CE Train set: Accuracy: 49/64 (77%)
+
+FP  Train Epoch: 96 [48000/60000 (80%)]    Loss: 1.012715
+FP Train set: Accuracy: 51/64 (80%)
+
+CE  Train Epoch: 96 [48000/60000 (80%)]    Loss: 0.471147
+CE Train set: Accuracy: 57/64 (89%)
+
+FP  Train Epoch: 96 [51200/60000 (85%)]    Loss: 1.021751
+FP Train set: Accuracy: 48/64 (75%)
+
+CE  Train Epoch: 96 [51200/60000 (85%)]    Loss: 0.733713
+CE Train set: Accuracy: 53/64 (83%)
+
+FP  Train Epoch: 96 [54400/60000 (91%)]    Loss: 1.391436
+FP Train set: Accuracy: 57/64 (89%)
+
+CE  Train Epoch: 96 [54400/60000 (91%)]    Loss: 0.700237
+CE Train set: Accuracy: 52/64 (81%)
+
+FP  Train Epoch: 96 [57600/60000 (96%)]    Loss: 1.091243
+FP Train set: Accuracy: 52/64 (81%)
+
+CE  Train Epoch: 96 [57600/60000 (96%)]    Loss: 0.566227
+CE Train set: Accuracy: 52/64 (81%)
+
+
+Test set: Avg. loss: 0.0274, Accuracy: 9494/10000 (95%)
+
+FP  Train Epoch: 97 [0/60000 (0%)] Loss: 1.267614
+FP Train set: Accuracy: 55/64 (86%)
+
+CE  Train Epoch: 97 [0/60000 (0%)] Loss: 0.523032
+CE Train set: Accuracy: 52/64 (81%)
+
+FP  Train Epoch: 97 [3200/60000 (5%)]      Loss: 1.241048
+FP Train set: Accuracy: 56/64 (88%)
+
+CE  Train Epoch: 97 [3200/60000 (5%)]      Loss: 0.512282
+CE Train set: Accuracy: 56/64 (88%)
+
+FP  Train Epoch: 97 [6400/60000 (11%)]     Loss: 1.340596
+FP Train set: Accuracy: 51/64 (80%)
+
+CE  Train Epoch: 97 [6400/60000 (11%)]     Loss: 0.639306
+CE Train set: Accuracy: 52/64 (81%)
+
+FP  Train Epoch: 97 [9600/60000 (16%)]     Loss: 1.096339
+FP Train set: Accuracy: 57/64 (89%)
+
+CE  Train Epoch: 97 [9600/60000 (16%)]     Loss: 0.392470
+CE Train set: Accuracy: 57/64 (89%)
+
+FP  Train Epoch: 97 [12800/60000 (21%)]    Loss: 1.545840
+FP Train set: Accuracy: 48/64 (75%)
+
+CE  Train Epoch: 97 [12800/60000 (21%)]    Loss: 0.569898
+CE Train set: Accuracy: 52/64 (81%)
+
+FP  Train Epoch: 97 [16000/60000 (27%)]    Loss: 1.220502
+FP Train set: Accuracy: 47/64 (73%)
+
+CE  Train Epoch: 97 [16000/60000 (27%)]    Loss: 0.585741
+CE Train set: Accuracy: 54/64 (84%)
+
+FP  Train Epoch: 97 [19200/60000 (32%)]    Loss: 1.015835
+FP Train set: Accuracy: 58/64 (91%)
+
+CE  Train Epoch: 97 [19200/60000 (32%)]    Loss: 0.554167
+CE Train set: Accuracy: 57/64 (89%)
+
+FP  Train Epoch: 97 [22400/60000 (37%)]    Loss: 1.211590
+FP Train set: Accuracy: 52/64 (81%)
+
+CE  Train Epoch: 97 [22400/60000 (37%)]    Loss: 0.501939
+CE Train set: Accuracy: 57/64 (89%)
+
+FP  Train Epoch: 97 [25600/60000 (43%)]    Loss: 1.067927
+FP Train set: Accuracy: 58/64 (91%)
+
+CE  Train Epoch: 97 [25600/60000 (43%)]    Loss: 0.359639
+CE Train set: Accuracy: 56/64 (88%)
+
+FP  Train Epoch: 97 [28800/60000 (48%)]    Loss: 1.055133
+FP Train set: Accuracy: 48/64 (75%)
+
+CE  Train Epoch: 97 [28800/60000 (48%)]    Loss: 0.620281
+CE Train set: Accuracy: 51/64 (80%)
+
+FP  Train Epoch: 97 [32000/60000 (53%)]    Loss: 1.182736
+FP Train set: Accuracy: 51/64 (80%)
+
+CE  Train Epoch: 97 [32000/60000 (53%)]    Loss: 0.905356
+CE Train set: Accuracy: 48/64 (75%)
+
+FP  Train Epoch: 97 [35200/60000 (59%)]    Loss: 1.106678
+FP Train set: Accuracy: 58/64 (91%)
+
+CE  Train Epoch: 97 [35200/60000 (59%)]    Loss: 0.420038
+CE Train set: Accuracy: 55/64 (86%)
+
+FP  Train Epoch: 97 [38400/60000 (64%)]    Loss: 1.279719
+FP Train set: Accuracy: 52/64 (81%)
+
+CE  Train Epoch: 97 [38400/60000 (64%)]    Loss: 0.593984
+CE Train set: Accuracy: 56/64 (88%)
+
+FP  Train Epoch: 97 [41600/60000 (69%)]    Loss: 1.219474
+FP Train set: Accuracy: 60/64 (94%)
+
+CE  Train Epoch: 97 [41600/60000 (69%)]    Loss: 0.258783
+CE Train set: Accuracy: 59/64 (92%)
+
+FP  Train Epoch: 97 [44800/60000 (75%)]    Loss: 1.171224
+FP Train set: Accuracy: 59/64 (92%)
+
+CE  Train Epoch: 97 [44800/60000 (75%)]    Loss: 0.592477
+CE Train set: Accuracy: 51/64 (80%)
+
+FP  Train Epoch: 97 [48000/60000 (80%)]    Loss: 1.180064
+FP Train set: Accuracy: 50/64 (78%)
+
+CE  Train Epoch: 97 [48000/60000 (80%)]    Loss: 0.533380
+CE Train set: Accuracy: 53/64 (83%)
+
+FP  Train Epoch: 97 [51200/60000 (85%)]    Loss: 1.246060
+FP Train set: Accuracy: 52/64 (81%)
+
+CE  Train Epoch: 97 [51200/60000 (85%)]    Loss: 0.653997
+CE Train set: Accuracy: 55/64 (86%)
+
+FP  Train Epoch: 97 [54400/60000 (91%)]    Loss: 1.145554
+FP Train set: Accuracy: 56/64 (88%)
+
+CE  Train Epoch: 97 [54400/60000 (91%)]    Loss: 0.614437
+CE Train set: Accuracy: 55/64 (86%)
+
+FP  Train Epoch: 97 [57600/60000 (96%)]    Loss: 1.405939
+FP Train set: Accuracy: 52/64 (81%)
+
+CE  Train Epoch: 97 [57600/60000 (96%)]    Loss: 0.519703
+CE Train set: Accuracy: 54/64 (84%)
+
+
+Test set: Avg. loss: 0.0267, Accuracy: 8999/10000 (90%)
+
+FP  Train Epoch: 98 [0/60000 (0%)] Loss: 1.212112
+FP Train set: Accuracy: 41/64 (64%)
+
+CE  Train Epoch: 98 [0/60000 (0%)] Loss: 1.683880
+CE Train set: Accuracy: 44/64 (69%)
+
+FP  Train Epoch: 98 [3200/60000 (5%)]      Loss: 1.575193
+FP Train set: Accuracy: 53/64 (83%)
+
+CE  Train Epoch: 98 [3200/60000 (5%)]      Loss: 0.606833
+CE Train set: Accuracy: 54/64 (84%)
+
+FP  Train Epoch: 98 [6400/60000 (11%)]     Loss: 1.027391
+FP Train set: Accuracy: 58/64 (91%)
+
+CE  Train Epoch: 98 [6400/60000 (11%)]     Loss: 0.338769
+CE Train set: Accuracy: 59/64 (92%)
+
+FP  Train Epoch: 98 [9600/60000 (16%)]     Loss: 1.192522
+FP Train set: Accuracy: 55/64 (86%)
+
+CE  Train Epoch: 98 [9600/60000 (16%)]     Loss: 0.787525
+CE Train set: Accuracy: 49/64 (77%)
+
+FP  Train Epoch: 98 [12800/60000 (21%)]    Loss: 1.343528
+FP Train set: Accuracy: 55/64 (86%)
+
+CE  Train Epoch: 98 [12800/60000 (21%)]    Loss: 0.708058
+CE Train set: Accuracy: 52/64 (81%)
+
+FP  Train Epoch: 98 [16000/60000 (27%)]    Loss: 1.363499
+FP Train set: Accuracy: 52/64 (81%)
+
+CE  Train Epoch: 98 [16000/60000 (27%)]    Loss: 0.552186
+CE Train set: Accuracy: 54/64 (84%)
+
+FP  Train Epoch: 98 [19200/60000 (32%)]    Loss: 1.122482
+FP Train set: Accuracy: 45/64 (70%)
+
+CE  Train Epoch: 98 [19200/60000 (32%)]    Loss: 0.846036
+CE Train set: Accuracy: 44/64 (69%)
+
+FP  Train Epoch: 98 [22400/60000 (37%)]    Loss: 1.005305
+FP Train set: Accuracy: 52/64 (81%)
+
+CE  Train Epoch: 98 [22400/60000 (37%)]    Loss: 0.452579
+CE Train set: Accuracy: 56/64 (88%)
+
+FP  Train Epoch: 98 [25600/60000 (43%)]    Loss: 1.242898
+FP Train set: Accuracy: 52/64 (81%)
+
+CE  Train Epoch: 98 [25600/60000 (43%)]    Loss: 0.373837
+CE Train set: Accuracy: 53/64 (83%)
+
+FP  Train Epoch: 98 [28800/60000 (48%)]    Loss: 1.240347
+FP Train set: Accuracy: 52/64 (81%)
+
+CE  Train Epoch: 98 [28800/60000 (48%)]    Loss: 0.705428
+CE Train set: Accuracy: 46/64 (72%)
+
+FP  Train Epoch: 98 [32000/60000 (53%)]    Loss: 1.018174
+FP Train set: Accuracy: 53/64 (83%)
+
+CE  Train Epoch: 98 [32000/60000 (53%)]    Loss: 0.749136
+CE Train set: Accuracy: 48/64 (75%)
+
+FP  Train Epoch: 98 [35200/60000 (59%)]    Loss: 1.435875
+FP Train set: Accuracy: 51/64 (80%)
+
+CE  Train Epoch: 98 [35200/60000 (59%)]    Loss: 0.747375
+CE Train set: Accuracy: 46/64 (72%)
+
+FP  Train Epoch: 98 [38400/60000 (64%)]    Loss: 0.986856
+FP Train set: Accuracy: 49/64 (77%)
+
+CE  Train Epoch: 98 [38400/60000 (64%)]    Loss: 0.802098
+CE Train set: Accuracy: 52/64 (81%)
+
+FP  Train Epoch: 98 [41600/60000 (69%)]    Loss: 1.193627
+FP Train set: Accuracy: 50/64 (78%)
+
+CE  Train Epoch: 98 [41600/60000 (69%)]    Loss: 0.548968
+CE Train set: Accuracy: 50/64 (78%)
+
+FP  Train Epoch: 98 [44800/60000 (75%)]    Loss: 0.942511
+FP Train set: Accuracy: 53/64 (83%)
+
+CE  Train Epoch: 98 [44800/60000 (75%)]    Loss: 0.278869
+CE Train set: Accuracy: 57/64 (89%)
+
+FP  Train Epoch: 98 [48000/60000 (80%)]    Loss: 1.151048
+FP Train set: Accuracy: 55/64 (86%)
+
+CE  Train Epoch: 98 [48000/60000 (80%)]    Loss: 0.405947
+CE Train set: Accuracy: 55/64 (86%)
+
+FP  Train Epoch: 98 [51200/60000 (85%)]    Loss: 1.172596
+FP Train set: Accuracy: 51/64 (80%)
+
+CE  Train Epoch: 98 [51200/60000 (85%)]    Loss: 0.500014
+CE Train set: Accuracy: 54/64 (84%)
+
+FP  Train Epoch: 98 [54400/60000 (91%)]    Loss: 1.013450
+FP Train set: Accuracy: 50/64 (78%)
+
+CE  Train Epoch: 98 [54400/60000 (91%)]    Loss: 0.494482
+CE Train set: Accuracy: 51/64 (80%)
+
+FP  Train Epoch: 98 [57600/60000 (96%)]    Loss: 1.364718
+FP Train set: Accuracy: 51/64 (80%)
+
+CE  Train Epoch: 98 [57600/60000 (96%)]    Loss: 0.559793
+CE Train set: Accuracy: 55/64 (86%)
+
+
+Test set: Avg. loss: 0.0249, Accuracy: 9385/10000 (94%)
+
+FP  Train Epoch: 99 [0/60000 (0%)] Loss: 1.177405
+FP Train set: Accuracy: 48/64 (75%)
+
+CE  Train Epoch: 99 [0/60000 (0%)] Loss: 0.858089
+CE Train set: Accuracy: 44/64 (69%)
+
+FP  Train Epoch: 99 [3200/60000 (5%)]      Loss: 0.944909
+FP Train set: Accuracy: 58/64 (91%)
+
+CE  Train Epoch: 99 [3200/60000 (5%)]      Loss: 0.509437
+CE Train set: Accuracy: 50/64 (78%)
+
+FP  Train Epoch: 99 [6400/60000 (11%)]     Loss: 1.047817
+FP Train set: Accuracy: 60/64 (94%)
+
+CE  Train Epoch: 99 [6400/60000 (11%)]     Loss: 0.605195
+CE Train set: Accuracy: 50/64 (78%)
+
+FP  Train Epoch: 99 [9600/60000 (16%)]     Loss: 1.004585
+FP Train set: Accuracy: 50/64 (78%)
+
+CE  Train Epoch: 99 [9600/60000 (16%)]     Loss: 0.881473
+CE Train set: Accuracy: 41/64 (64%)
+
+FP  Train Epoch: 99 [12800/60000 (21%)]    Loss: 0.950225
+FP Train set: Accuracy: 49/64 (77%)
+
+CE  Train Epoch: 99 [12800/60000 (21%)]    Loss: 0.791661
+CE Train set: Accuracy: 50/64 (78%)
+
+FP  Train Epoch: 99 [16000/60000 (27%)]    Loss: 1.079803
+FP Train set: Accuracy: 50/64 (78%)
+
+CE  Train Epoch: 99 [16000/60000 (27%)]    Loss: 0.635471
+CE Train set: Accuracy: 50/64 (78%)
+
+FP  Train Epoch: 99 [19200/60000 (32%)]    Loss: 1.127598
+FP Train set: Accuracy: 59/64 (92%)
+
+CE  Train Epoch: 99 [19200/60000 (32%)]    Loss: 0.317285
+CE Train set: Accuracy: 58/64 (91%)
+
+FP  Train Epoch: 99 [22400/60000 (37%)]    Loss: 1.099988
+FP Train set: Accuracy: 52/64 (81%)
+
+CE  Train Epoch: 99 [22400/60000 (37%)]    Loss: 0.602285
+CE Train set: Accuracy: 49/64 (77%)
+
+FP  Train Epoch: 99 [25600/60000 (43%)]    Loss: 1.360016
+FP Train set: Accuracy: 53/64 (83%)
+
+CE  Train Epoch: 99 [25600/60000 (43%)]    Loss: 0.809277
+CE Train set: Accuracy: 46/64 (72%)
+
+FP  Train Epoch: 99 [28800/60000 (48%)]    Loss: 1.139314
+FP Train set: Accuracy: 45/64 (70%)
+
+CE  Train Epoch: 99 [28800/60000 (48%)]    Loss: 0.780196
+CE Train set: Accuracy: 43/64 (67%)
+
+FP  Train Epoch: 99 [32000/60000 (53%)]    Loss: 1.099795
+FP Train set: Accuracy: 50/64 (78%)
+
+CE  Train Epoch: 99 [32000/60000 (53%)]    Loss: 0.543910
+CE Train set: Accuracy: 56/64 (88%)
+
+FP  Train Epoch: 99 [35200/60000 (59%)]    Loss: 1.183559
+FP Train set: Accuracy: 50/64 (78%)
+
+CE  Train Epoch: 99 [35200/60000 (59%)]    Loss: 0.766240
+CE Train set: Accuracy: 47/64 (73%)
+
+FP  Train Epoch: 99 [38400/60000 (64%)]    Loss: 1.109115
+FP Train set: Accuracy: 57/64 (89%)
+
+CE  Train Epoch: 99 [38400/60000 (64%)]    Loss: 0.398713
+CE Train set: Accuracy: 57/64 (89%)
+
+FP  Train Epoch: 99 [41600/60000 (69%)]    Loss: 1.161101
+FP Train set: Accuracy: 58/64 (91%)
+
+CE  Train Epoch: 99 [41600/60000 (69%)]    Loss: 0.776678
+CE Train set: Accuracy: 54/64 (84%)
+
+FP  Train Epoch: 99 [44800/60000 (75%)]    Loss: 1.063940
+FP Train set: Accuracy: 55/64 (86%)
+
+CE  Train Epoch: 99 [44800/60000 (75%)]    Loss: 0.660293
+CE Train set: Accuracy: 54/64 (84%)
+
+FP  Train Epoch: 99 [48000/60000 (80%)]    Loss: 1.052671
+FP Train set: Accuracy: 53/64 (83%)
+
+CE  Train Epoch: 99 [48000/60000 (80%)]    Loss: 0.484869
+CE Train set: Accuracy: 55/64 (86%)
+
+FP  Train Epoch: 99 [51200/60000 (85%)]    Loss: 1.143837
+FP Train set: Accuracy: 53/64 (83%)
+
+CE  Train Epoch: 99 [51200/60000 (85%)]    Loss: 0.595625
+CE Train set: Accuracy: 53/64 (83%)
+
+FP  Train Epoch: 99 [54400/60000 (91%)]    Loss: 1.329011
+FP Train set: Accuracy: 58/64 (91%)
+
+CE  Train Epoch: 99 [54400/60000 (91%)]    Loss: 0.693880
+CE Train set: Accuracy: 52/64 (81%)
+
+FP  Train Epoch: 99 [57600/60000 (96%)]    Loss: 1.585386
+FP Train set: Accuracy: 51/64 (80%)
+
+CE  Train Epoch: 99 [57600/60000 (96%)]    Loss: 0.622869
+CE Train set: Accuracy: 54/64 (84%)
+
+
+Test set: Avg. loss: 0.0241, Accuracy: 9470/10000 (95%)
+
+FP  Train Epoch: 100 [0/60000 (0%)]        Loss: 1.336714
+FP Train set: Accuracy: 50/64 (78%)
+
+CE  Train Epoch: 100 [0/60000 (0%)]        Loss: 0.580731
+CE Train set: Accuracy: 52/64 (81%)
+
+FP  Train Epoch: 100 [3200/60000 (5%)]     Loss: 1.111243
+FP Train set: Accuracy: 55/64 (86%)
+
+CE  Train Epoch: 100 [3200/60000 (5%)]     Loss: 0.521944
+CE Train set: Accuracy: 50/64 (78%)
+
+FP  Train Epoch: 100 [6400/60000 (11%)]    Loss: 1.580205
+FP Train set: Accuracy: 50/64 (78%)
+
+CE  Train Epoch: 100 [6400/60000 (11%)]    Loss: 0.420979
+CE Train set: Accuracy: 58/64 (91%)
+
+FP  Train Epoch: 100 [9600/60000 (16%)]    Loss: 1.099205
+FP Train set: Accuracy: 51/64 (80%)
+
+CE  Train Epoch: 100 [9600/60000 (16%)]    Loss: 0.649581
+CE Train set: Accuracy: 51/64 (80%)
+
+FP  Train Epoch: 100 [12800/60000 (21%)]   Loss: 1.181699
+FP Train set: Accuracy: 56/64 (88%)
+
+CE  Train Epoch: 100 [12800/60000 (21%)]   Loss: 0.512916
+CE Train set: Accuracy: 51/64 (80%)
+
+FP  Train Epoch: 100 [16000/60000 (27%)]   Loss: 1.282977
+FP Train set: Accuracy: 48/64 (75%)
+
+CE  Train Epoch: 100 [16000/60000 (27%)]   Loss: 0.571531
+CE Train set: Accuracy: 53/64 (83%)
+
+FP  Train Epoch: 100 [19200/60000 (32%)]   Loss: 0.971803
+FP Train set: Accuracy: 57/64 (89%)
+
+CE  Train Epoch: 100 [19200/60000 (32%)]   Loss: 0.370432
+CE Train set: Accuracy: 57/64 (89%)
+
+FP  Train Epoch: 100 [22400/60000 (37%)]   Loss: 1.467124
+FP Train set: Accuracy: 42/64 (66%)
+
+CE  Train Epoch: 100 [22400/60000 (37%)]   Loss: 0.685914
+CE Train set: Accuracy: 48/64 (75%)
+
+FP  Train Epoch: 100 [25600/60000 (43%)]   Loss: 1.272337
+FP Train set: Accuracy: 51/64 (80%)
+
+CE  Train Epoch: 100 [25600/60000 (43%)]   Loss: 0.340854
+CE Train set: Accuracy: 56/64 (88%)
+
+FP  Train Epoch: 100 [28800/60000 (48%)]   Loss: 1.396443
+FP Train set: Accuracy: 48/64 (75%)
+
+CE  Train Epoch: 100 [28800/60000 (48%)]   Loss: 0.563853
+CE Train set: Accuracy: 49/64 (77%)
+
+FP  Train Epoch: 100 [32000/60000 (53%)]   Loss: 1.370035
+FP Train set: Accuracy: 53/64 (83%)
+
+CE  Train Epoch: 100 [32000/60000 (53%)]   Loss: 0.604586
+CE Train set: Accuracy: 52/64 (81%)
+
+FP  Train Epoch: 100 [35200/60000 (59%)]   Loss: 1.198274
+FP Train set: Accuracy: 48/64 (75%)
+
+CE  Train Epoch: 100 [35200/60000 (59%)]   Loss: 0.799238
+CE Train set: Accuracy: 47/64 (73%)
+
+FP  Train Epoch: 100 [38400/60000 (64%)]   Loss: 1.098539
+FP Train set: Accuracy: 54/64 (84%)
+
+CE  Train Epoch: 100 [38400/60000 (64%)]   Loss: 0.717923
+CE Train set: Accuracy: 48/64 (75%)
+
+FP  Train Epoch: 100 [41600/60000 (69%)]   Loss: 1.122157
+FP Train set: Accuracy: 57/64 (89%)
+
+CE  Train Epoch: 100 [41600/60000 (69%)]   Loss: 0.489624
+CE Train set: Accuracy: 56/64 (88%)
+
+FP  Train Epoch: 100 [44800/60000 (75%)]   Loss: 1.150270
+FP Train set: Accuracy: 52/64 (81%)
+
+CE  Train Epoch: 100 [44800/60000 (75%)]   Loss: 0.911847
+CE Train set: Accuracy: 48/64 (75%)
+
+FP  Train Epoch: 100 [48000/60000 (80%)]   Loss: 1.199474
+FP Train set: Accuracy: 56/64 (88%)
+
+CE  Train Epoch: 100 [48000/60000 (80%)]   Loss: 0.491817
+CE Train set: Accuracy: 53/64 (83%)
+
+FP  Train Epoch: 100 [51200/60000 (85%)]   Loss: 1.500295
+FP Train set: Accuracy: 49/64 (77%)
+
+CE  Train Epoch: 100 [51200/60000 (85%)]   Loss: 0.803063
+CE Train set: Accuracy: 50/64 (78%)
+
+FP  Train Epoch: 100 [54400/60000 (91%)]   Loss: 1.084180
+FP Train set: Accuracy: 54/64 (84%)
+
+CE  Train Epoch: 100 [54400/60000 (91%)]   Loss: 0.611415
+CE Train set: Accuracy: 50/64 (78%)
+
+FP  Train Epoch: 100 [57600/60000 (96%)]   Loss: 0.987957
+FP Train set: Accuracy: 57/64 (89%)
+
+CE  Train Epoch: 100 [57600/60000 (96%)]   Loss: 0.449828
+CE Train set: Accuracy: 55/64 (86%)
+
+
+Test set: Avg. loss: 0.0244, Accuracy: 9535/10000 (95%)

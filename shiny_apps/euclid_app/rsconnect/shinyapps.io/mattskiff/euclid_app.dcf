@@ -1,0 +1,10 @@
+name: euclid_app
+title:
+username:
+account: mattskiff
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 742877
+bundleId: 1905230
+url: https://mattskiff.shinyapps.io/euclid_app/
+when: 1551325512.32754

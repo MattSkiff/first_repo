@@ -1,0 +1,7 @@
+momentum = 0.5
+SGD
+no dropout
+10 Epochs
+train accuracy code fixed
+learning_rate = 0.01 (no schedule)
+alternating loss for entire training run (keeping layers frozen appropriately)

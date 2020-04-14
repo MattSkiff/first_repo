@@ -1,0 +1,23 @@
+!!! Important 
+
+* Make sure screen resolution is 1920x1080
+
+* Packages needed: shiny, ggplot2, ggforce
+
+* Drag R script named run.R into R console (should source script)
+
+* If appropriate packages are installed, R will open the default web browser with demo app runnig
+
+* Press F11 for fullscreen
+
+* Press "show code below" to make sure code display does not intefere with rendering of graphs / layout
+
+--------------------------------
+
+* Rendering 3k-5k points manually will take a while...be patient
+
+* Past 5k points, plot of circle + points will not render (speeds up response considerably)
+
+--------------------------------
+
+* loop will continue once clicked until paused. It's on a 2s delay, during which no computation takes place, which is complicated by the subsequent time to simulate and render points - it's not particulary sophisticated in terms of timing in that respect
